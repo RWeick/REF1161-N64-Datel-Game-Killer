@@ -1,5 +1,5 @@
 # REF1161-N64-Datel-Game-Killer
-The extracted N64 game saves and Kicad Schematic and PCB files for the Datel Game Killer for the N64.
+The extracted N64 game saves, Kicad Schematic, and PCB files for the Datel Game Killer for the N64.
 
 This product overwrites targeted portions of the game save for the selected game to yield a modified game with hacks enabled. It does not upload a full game save to the attached game.
 
